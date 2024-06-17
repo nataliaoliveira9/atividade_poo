@@ -1,0 +1,14 @@
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\bin\Debug\net8.0\Atividade.exe
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\bin\Debug\net8.0\Atividade.deps.json
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\bin\Debug\net8.0\Atividade.dll
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\bin\Debug\net8.0\Atividade.pdb
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\Atividade.dll
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\Atividade.pdb
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+N:\MEGA\Senai\Codificação para Back End\SP2 A1\Atividade\obj\Debug\net8.0\ref\Atividade.dll
